@@ -4,3 +4,6 @@
 [submodule "Assignment-2"]
 	path = Assignment-2
 	url = git@github.com:idodin/cv-assignment-2.git
+[submodule "Assignment-3"]
+	path = Assignment-3
+	url = git@github.com:idodin/cv-assignment-3.git
