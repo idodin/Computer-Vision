@@ -8,5 +8,5 @@
 	path = Assignment-3
 	url = git@github.com:idodin/cv-assignment-3.git
 [submodule "cv-assignment-4"]
-	path = cv-assignment-4
+	path = Assignment-4
 	url = git@github.com:idodin/cv-assignment-4.git
