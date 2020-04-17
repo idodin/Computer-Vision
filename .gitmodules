@@ -1,0 +1,3 @@
+[submodule "cv-assignment-1"]
+	path = Assignment-1
+	url = git@github.com:idodin/cv-assignment-1.git
